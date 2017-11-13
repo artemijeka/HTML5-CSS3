@@ -1,0 +1,228 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-MasterCard-Logo {
+  background-image: url(sprite.png);
+  background-position: 0px -554px;
+  width: 200px;
+  height: 133px;
+}
+.icon-cart-icon {
+  background-image: url(sprite.png);
+  background-position: -888px -221px;
+  width: 51px;
+  height: 49px;
+}
+.icon-clearance-logo {
+  background-image: url(sprite.png);
+  background-position: 0px -687px;
+  width: 157px;
+  height: 157px;
+}
+.icon-clearance {
+  background-image: url(sprite.png);
+  background-position: 0px 0px;
+  width: 970px;
+  height: 157px;
+}
+.icon-downArrow {
+  background-image: url(sprite.png);
+  background-position: -952px -211px;
+  width: 9px;
+  height: 5px;
+}
+.icon-fast-catalog__item_left {
+  background-image: url(sprite.png);
+  background-position: -939px -240px;
+  width: 14px;
+  height: 27px;
+}
+.icon-fast-catalog__item_left_white {
+  background-image: url(sprite.png);
+  background-position: -952px -157px;
+  width: 14px;
+  height: 27px;
+}
+.icon-fast-catalog__item_right {
+  background-image: url(sprite.png);
+  background-position: -953px -240px;
+  width: 14px;
+  height: 27px;
+}
+.icon-fast-catalog__item_right_white {
+  background-image: url(sprite.png);
+  background-position: -952px -184px;
+  width: 14px;
+  height: 27px;
+}
+.icon-logo {
+  background-image: url(sprite.png);
+  background-position: -556px -157px;
+  width: 332px;
+  height: 126px;
+}
+.icon-loop {
+  background-image: url(sprite.png);
+  background-position: -929px -283px;
+  width: 15px;
+  height: 15px;
+}
+.icon-menu-button-icon {
+  background-image: url(sprite.png);
+  background-position: -863px -283px;
+  width: 33px;
+  height: 30px;
+}
+.icon-menu-mobile-mark {
+  background-image: url(sprite.png);
+  background-position: -896px -283px;
+  width: 33px;
+  height: 30px;
+}
+.icon-navigation_slide_left {
+  background-image: url(sprite.png);
+  background-position: -417px -687px;
+  width: 30px;
+  height: 117px;
+}
+.icon-navigation_slide_right {
+  background-image: url(sprite.png);
+  background-position: -447px -687px;
+  width: 30px;
+  height: 117px;
+}
+.icon-obsessive_logo {
+  background-image: url(sprite.png);
+  background-position: -200px -554px;
+  width: 240px;
+  height: 106px;
+}
+.icon-packet {
+  background-image: url(sprite.png);
+  background-position: -939px -221px;
+  width: 20px;
+  height: 19px;
+}
+.icon-plus-icon {
+  background-image: url(sprite.png);
+  background-position: -826px -283px;
+  width: 37px;
+  height: 37px;
+}
+.icon-rub-10-logo {
+  background-image: url(sprite.png);
+  background-position: -291px -687px;
+  width: 126px;
+  height: 125px;
+}
+.icon-shape-icon {
+  background-image: url(sprite.png);
+  background-position: -788px -283px;
+  width: 38px;
+  height: 38px;
+}
+.icon-shape {
+  background-image: url(sprite.png);
+  background-position: -342px -157px;
+  width: 214px;
+  height: 214px;
+}
+.icon-shop-it {
+  background-image: url(sprite.png);
+  background-position: -157px -687px;
+  width: 134px;
+  height: 134px;
+}
+.icon-slider_shop_now {
+  background-image: url(sprite.png);
+  background-position: 0px -157px;
+  width: 342px;
+  height: 241px;
+}
+.icon-spritesheet {
+  background-image: url(sprite.png);
+  background-position: -248px -398px;
+  width: 539px;
+  height: 70px;
+}
+.icon-triangle-down {
+  background-image: url(sprite.png);
+  background-position: -888px -270px;
+  width: 20px;
+  height: 10px;
+}
+.icon-triangle-right {
+  background-image: url(sprite.png);
+  background-position: -748px -321px;
+  width: 10px;
+  height: 20px;
+}
+.icon-upArrow {
+  background-image: url(sprite.png);
+  background-position: -961px -211px;
+  width: 9px;
+  height: 5px;
+}
+.icon-user-icon {
+  background-image: url(sprite.png);
+  background-position: -748px -283px;
+  width: 40px;
+  height: 38px;
+}
+.icon-user-icons {
+  background-image: url(sprite.png);
+  background-position: -944px -283px;
+  width: 14px;
+  height: 13px;
+}
+.icon-viber {
+  background-image: url(sprite.png);
+  background-position: -888px -157px;
+  width: 64px;
+  height: 64px;
+}
+.icon-visa-logo {
+  background-image: url(sprite.png);
+  background-position: 0px -398px;
+  width: 248px;
+  height: 156px;
+}
+.icon-vk-menu {
+  background-image: url(sprite.png);
+  background-position: -556px -283px;
+  width: 64px;
+  height: 64px;
+}
+.icon-vk {
+  background-image: url(sprite.png);
+  background-position: -620px -283px;
+  width: 64px;
+  height: 64px;
+}
+.icon-whatsapp {
+  background-image: url(sprite.png);
+  background-position: -684px -283px;
+  width: 64px;
+  height: 64px;
+}
+.icon-yandex-money-logo {
+  background-image: url(sprite.png);
+  background-position: -440px -554px;
+  width: 213px;
+  height: 106px;
+}
